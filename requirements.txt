@@ -1,0 +1,12 @@
+# packages in environment at /opt/conda/rpeyser/envs/scset:
+#
+# Name                    Version                   Build  Channel
+deepspeed                 0.3.13                   pypi_0    pypi
+matplotlib                3.6.3                    pypi_0    pypi
+numpy                     1.23.5                   pypi_0    pypi
+pandas                    1.5.3                    pypi_0    pypi
+scikit-learn              0.23.2                   pypi_0    pypi
+scipy                     1.10.1                   pypi_0    pypi
+seaborn                   0.12.2                   pypi_0    pypi
+statsmodels               0.13.5                   pypi_0    pypi
+tensorboard               2.11.2                   pypi_0    pypi
